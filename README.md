@@ -1,4 +1,5 @@
-#ToDo App
+## ToDo App ##
+
 Esta es una sencilla aplicación de lista de tareas (ToDo) desarrollada con React y TypeScript. La aplicación permite a los usuarios agregar, marcar como completadas y eliminar tareas de una lista interactiva.
 
 Funcionalidades:
